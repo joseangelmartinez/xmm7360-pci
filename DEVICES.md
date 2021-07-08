@@ -32,5 +32,6 @@
 | ThinkPad P52         | *?*                                    | Yes    | [#24](https://github.com/xmm7360/xmm7360-pci/issues/24)      |
 | ThinkPad P53         | *? (various)*                          | Yes    | [#2.1](https://github.com/xmm7360/xmm7360-pci/issues/2#issuecomment-574969366) [#2.2](https://github.com/xmm7360/xmm7360-pci/issues/2#issuecomment-605488944) [#2.3](https://github.com/xmm7360/xmm7360-pci/issues/2#issuecomment-713308447) |
 | ThinkPad X390        | Ubuntu 19.10, Archlinux, Gentoo        | Yes*   | [#17](https://github.com/xmm7360/xmm7360-pci/issues/17)      |
+| ThinkPad L15 (Gen1)  | KDE Neon 20.04 LTS                     | Yes    | [#119](https://github.com/xmm7360/xmm7360-pci/issues/119)    |
 
 \* see device link for more details.
